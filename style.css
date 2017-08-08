@@ -1,0 +1,29 @@
+body {
+    margin: 0 auto;
+    height: 100%;
+    width: 80%;
+    background-color: #6F5F70;
+}
+
+input {
+    margin: 50px 0 25px 0;
+    padding: 10px 50px;
+    text-align: left;
+    font-size: 2rem;
+    border: 2px solid grey;
+}
+
+.image-parent {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.thumb {
+    margin: 0 20px 20px 0;
+}
+
+hr {
+    margin-bottom: 50px;
+    width: 1100px;
+    margin-right: 100px;
+}
